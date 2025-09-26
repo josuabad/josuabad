@@ -27,7 +27,7 @@ I have gained experience working on several projects using Python, Java, and Jav
 
 You'll find more of the tools and technologies I've worked with in the sections below.
 
-- 🌱 Currently learning about Microservices, Cloud Architecture, ELK Stack (Observability), Databases, ML & AI
+- 🌱 Currently learning about ML & AI, Cloud Architecture, Observability, Databases, Microservices
 - 🌍 Languages: 🇪🇸 Spanish, 🇬🇧🇺🇸 English
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/josu-abad-otano/)
   <!-- - 🔭 Working on: ... -->
