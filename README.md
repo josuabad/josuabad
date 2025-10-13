@@ -35,6 +35,8 @@ You'll find more of the tools and technologies I've worked with in the sections 
 
 ## My Skills 🧠
 
+<!-- More badges at: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
